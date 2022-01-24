@@ -1,0 +1,19 @@
+.now{
+    background-color: #ccc !important;
+    border-color: #ccc !important;
+    color: #888;
+}
+
+.link{
+    border: 2px solid #666;
+    height: 50px;
+    width: 100%;
+    margin: 10px 0;
+    font-size: 20px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 0;
+    
+}
+
